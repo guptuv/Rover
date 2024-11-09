@@ -1,9 +1,8 @@
 
-<h1>GUJCOST Rover - Team Pravartak</h1>
+<h1>Rover - Team Pravartak</h1>
 
-<p><strong>GUJCOST Robofest 4.0 - Proof of Concept Stage</strong><br>
+<p><strong>Rover</strong><br>
 <strong>Category:</strong> Rover<br>
-<strong>Date:</strong> October 2024<br>
 <strong>Institution:</strong> Visvesvaraya National Institute of Technology, Nagpur</p>
 
 <hr>
@@ -20,3 +19,5 @@
 </ul>
 
 <hr>
+<h2 id="project-overview">Project Overview</h2>
+<p>Team Pravartak developed a rover prototype for robust exploration on uneven terrains and inclines up to 45 degrees, capabilities in autonomous navigation, obstacle detection, and adaptability to harsh environments.</p>
